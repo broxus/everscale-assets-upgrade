@@ -1,0 +1,67 @@
+{
+  "name": "Everscale assets upgrade",
+  "tokens": [
+    {
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/USDTv3/logo.svg",
+      "rootV4": "0:751b6e22687891bdc1706c8d91bf77281237f7453d27dc3106c640ec165a2abf",
+      "rootV5": "0:a519f99bb5d6d51ef958ed24d337ad75a1c770885dcd42d51d6663f9fcdacfb2",
+      "proxy": "0:a3023d7812aff9cafa73365853bdc11eeb010f09cd657de6e802adf16cfcd282"
+    },
+    {
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/USDCv3/logo.svg",
+      "rootV4": "0:1ad0575f0f98f87a07ec505c39839cb9766c70a11dadbfc171f59b2818759819",
+      "rootV5": "0:c37b3fafca5bf7d3704b081fde7df54f298736ee059bf6d32fac25f5e6085bf6",
+      "proxy": "0:f2cd0f4bf7269960dcddf2eb8c1c37279db9a6d1f0987bec4b3ce91fc40b6e79"
+    },
+    {
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DAIv3/logo.svg",
+      "rootV4": "0:95934aa6a66cb3eb211a80e99234dfbba6329cfa31600ce3c2b070d8d9677cef",
+      "rootV5": "0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9",
+      "proxy": "0:591f98d43d71f9bb5ab63cf582f82edc949f31c5cddc33963510640fda3819b8"
+    },
+    {
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WBTCv3/logo.svg",
+      "rootV4": "0:6e76bccb41be2210dc9d7a4d0f3cbf0d5da592d0cb6b87662d5510f5b5efe497",
+      "rootV5": "0:2ba32b75870d572e255809b7b423f30f36dd5dea075bd5f026863fceb81f2bcf",
+      "proxy": "0:0325f3834bca7cdcea148bb1e7ae73a2e235c9eae3ec2d9c3f5851aca7e35749"
+    },
+    {
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/WETHv3/logo.svg",
+      "rootV4": "0:45f682b7e783283caef3f268e10073cf08842bce20041d5224c38d87df9f2e90",
+      "rootV5": "0:59b6b64ac6798aacf385ae9910008a525a84fc6dcf9f942ae81f8e8485fe160d",
+      "proxy": "0:600f9ab6f5f52fbfcab012532a6e2e7d5a889362329073f22f6a642c397da4c9"
+    },
+    {
+      "symbol": "UNI-V2-USDT-WTON",
+      "rootV4": "0:53abe27ec16208973c9643911c35b5d033744fbb95b11b5672f71188db5a42dc",
+      "rootV5": "0:1e6e1b3674b54753864af7b15072566ce632965bd83bab431a8ff86d68cf1657",
+      "proxy": "0:18987794347bb73eae04d8eb420629058cf116cfcdc9ea7850666c7ce53609d5"
+    },
+    {
+      "symbol": "FRAX",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/FRAX/logo.svg",
+      "rootV4": "0:f8b0314571f5f00f6d9a61a914b9b5e1d910442d09b80c27efeb46631d74e961",
+      "rootV5": "0:efed9f9a7e6c455ee60829fd003b2f42edda513c6f19a484f916b055e9aa58d2",
+      "proxy": "0:393f2eac59064e38661b8bfd61256f1acbf6160fcf0e9ec37d0115ee6dcde59e"
+    },
+    {
+      "symbol": "FXS",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/FXS/logo.svg",
+      "rootV4": "0:0cddd021d2488c882041a31ba44e4ee69643a45223f068571e05b5a4c45bb7f6",
+      "rootV5": "0:c14e2f026feaae0f99b92c04ee421051a782fff60156ac8a586a12f63d7facef",
+      "proxy": "0:10653361a4e3f43b81befbec7ea97e1137bff1233fe2515abf4d6ac42fcc6909"
+    },
+    {
+      "symbol": "DAF",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DAF/logo.svg",
+      "rootV4": "0:bf1c7c0e8a187d9d5ba6069bf768b69a982df8b22ef8430b31dcc4f97263507e",
+      "rootV5": "0:f48054939064d686a9ad68d96d9ab79e409b095557c06ab7f073097dade7057f",
+      "proxy": "0:f0e380fa8a48adb45e73fa499c4346402808c31a45e69f9c9ef2544e4e6d1e86"
+    }
+  ]
+}
