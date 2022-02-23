@@ -70,6 +70,13 @@
       "rootV4": "0:bf1c7c0e8a187d9d5ba6069bf768b69a982df8b22ef8430b31dcc4f97263507e",
       "rootV5": "0:f48054939064d686a9ad68d96d9ab79e409b095557c06ab7f073097dade7057f",
       "proxy": "0:f0e380fa8a48adb45e73fa499c4346402808c31a45e69f9c9ef2544e4e6d1e86"
+    },
+    {
+      "symbol": "EUPi",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EUPi/logo.svg",
+      "rootV4": "0:f4a912b0c3be422e02c0a8295590671cae5b38c75d397da8d1da33882888bbcb",
+      "rootV5": "0:0cfa60f9454b1b619938c4da6a138b1cc62da937b3f6c0506405daf2a88e0115",
+      "proxy": "0:f93b0789bb397c2b090dc9dec0f595b2bf34a157a782452dcd5074c51636312e"
     }
   ]
 }
