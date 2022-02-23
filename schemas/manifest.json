@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "pattern": "^\\S.*\\S$"
+    },
+    "tokens": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "symbol": {
+            "type": "string",
+            "pattern": "^\\S.*\\S$"
+          },
+          "logoURI": {
+            "type": "string",
+            "format": "uri"
+          },
+          "rootV4": {
+            "type": "string",
+            "pattern": "^(-1|0):[0-9a-fA-F]{64}$"
+          },
+          "rootV5": {
+            "type": "string",
+            "pattern": "^(-1|0):[0-9a-fA-F]{64}$"
+          },
+          "proxy": {
+            "type": "string",
+            "pattern": "^(-1|0):[0-9a-fA-F]{64}$"
+          }
+        },
+        "required": [
+          "symbol",
+          "rootV4",
+          "rootV5",
+          "proxy"
+        ]
+      }
+    }
+  },
+  "required": [
+    "name",
+    "tokens"
+  ]
+}

@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/broxus/everscale-assets-upgrade/master/schemas/manifest.json",
   "name": "Everscale assets upgrade",
   "tokens": [
     {
