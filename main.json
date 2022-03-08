@@ -77,6 +77,13 @@
       "rootV4": "0:f4a912b0c3be422e02c0a8295590671cae5b38c75d397da8d1da33882888bbcb",
       "rootV5": "0:0cfa60f9454b1b619938c4da6a138b1cc62da937b3f6c0506405daf2a88e0115",
       "proxy": "0:f93b0789bb397c2b090dc9dec0f595b2bf34a157a782452dcd5074c51636312e"
+    },
+    {
+    "symbol": "SOON",
+    "logoURI": "https://raw.githubusercontent.com/SOONTOKEN/Token/main/img/tokenlogo.svg",
+    "rootV4": "0:a88b380064dad1520f09e6ed1162ce79272503a6d443fc938faeaabd135c294d",
+    "rootV5": "0:a15e6a7a91c331ddcd85675ca64d5a7db8c7e94b35806b2e05bf4bce29d21023",
+    "proxy": "0:1078fc30e3acd94c1855224ea4d2d94f7677f6c9bfb2cf79b0962490bc40d726"
     }
   ]
 }
