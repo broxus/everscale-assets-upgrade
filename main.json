@@ -80,7 +80,7 @@
     },
     {
     "symbol": "SOON",
-    "logoURI": "https://raw.githubusercontent.com/SOONTOKEN/Token/main/img/tokenlogo.svg",
+    "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/SOON/logo.svg",
     "rootV4": "0:a88b380064dad1520f09e6ed1162ce79272503a6d443fc938faeaabd135c294d",
     "rootV5": "0:a15e6a7a91c331ddcd85675ca64d5a7db8c7e94b35806b2e05bf4bce29d21023",
     "proxy": "0:1078fc30e3acd94c1855224ea4d2d94f7677f6c9bfb2cf79b0962490bc40d726"
