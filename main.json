@@ -84,6 +84,13 @@
     "rootV4": "0:a88b380064dad1520f09e6ed1162ce79272503a6d443fc938faeaabd135c294d",
     "rootV5": "0:a15e6a7a91c331ddcd85675ca64d5a7db8c7e94b35806b2e05bf4bce29d21023",
     "proxy": "0:1078fc30e3acd94c1855224ea4d2d94f7677f6c9bfb2cf79b0962490bc40d726"
+    },
+    {
+    "symbol": "GRE",
+    "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/GRE/logo.svg",
+    "rootV4": "0:5a36d8f9384f63321d49fd98e1a7818b28d9496d1daf3328325560ded3d86806",
+    "rootV5": "0:1045b37d2c267a4e7aa58856aa531209d41b87015dc5e6fc4ce7b14ab338b5e1",
+    "proxy": "0:424652a59585675311041b5ec6cf5fc29ee89f8d99efadb156665c74e03def34"
     }
   ]
 }
