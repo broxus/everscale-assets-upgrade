@@ -87,7 +87,7 @@
     },
     {
       "symbol": "EVS",
-      "logoURI": "https://everspace.app/tip3/EVS/Logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EVS/logo.svg",
       "rootV4": "0:4600a14ac4d37836993ea7040ee8e78afc7f246bca3c81367d50f5046df7ee8c",
       "rootV5": "0:e5d964bf76b90a29ca11ff03a0402eeca6a1c79a0fb4d8a2f06a67be0537a6bf",
       "proxy": "0:b7f5e80ec25cd08536e2ff18f137d36a30a4f98060bf05b78c78101e4bf27313"
