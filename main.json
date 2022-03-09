@@ -86,6 +86,13 @@
     "proxy": "0:1078fc30e3acd94c1855224ea4d2d94f7677f6c9bfb2cf79b0962490bc40d726"
     },
     {
+    "symbol": "GRE",
+    "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/GRE/logo.svg",
+    "rootV4": "0:5a36d8f9384f63321d49fd98e1a7818b28d9496d1daf3328325560ded3d86806",
+    "rootV5": "0:fde4c629d6447fecd86d2cffe363d5f334030351022bad019e0f472212e9dc99",
+    "proxy": "0:de42136038cb331499cc104da47bbc63d790e403def83ce576dea6deb06cd7cc"
+    },
+    {
       "symbol": "EVS",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EVS/logo.svg",
       "rootV4": "0:4600a14ac4d37836993ea7040ee8e78afc7f246bca3c81367d50f5046df7ee8c",
