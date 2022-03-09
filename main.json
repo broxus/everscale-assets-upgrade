@@ -98,6 +98,13 @@
       "rootV4": "0:4600a14ac4d37836993ea7040ee8e78afc7f246bca3c81367d50f5046df7ee8c",
       "rootV5": "0:e5d964bf76b90a29ca11ff03a0402eeca6a1c79a0fb4d8a2f06a67be0537a6bf",
       "proxy": "0:b7f5e80ec25cd08536e2ff18f137d36a30a4f98060bf05b78c78101e4bf27313"
-     }
+    },
+    {
+      "symbol": "BAPBAPA",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/BAPBAPA/logo.svg",
+      "rootV4": "0:60e0e4a95f54a7d4c9d3668b9a545cc513e96e6a9826f514b1f88b1a4145c693",
+      "rootV5": "0:9e0350c13cafe2bb55d906553fde5f357612e6dcb46c0c3440c7bfdda273ffdd",
+      "proxy": "0:f6ceca4557593001bdf39b8512c29ce5f334f1c15713fbec0d092956a5b4a4bc" 
+    }
   ]
 }
