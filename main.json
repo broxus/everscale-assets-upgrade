@@ -98,6 +98,13 @@
       "rootV4": "0:4600a14ac4d37836993ea7040ee8e78afc7f246bca3c81367d50f5046df7ee8c",
       "rootV5": "0:e5d964bf76b90a29ca11ff03a0402eeca6a1c79a0fb4d8a2f06a67be0537a6bf",
       "proxy": "0:b7f5e80ec25cd08536e2ff18f137d36a30a4f98060bf05b78c78101e4bf27313"
-     }
+     },
+    {
+      "symbol": "DUSA",
+      "logoURI": "https://raw.githubusercontent.com/jlj-dusa/dusa-public/main/assets/dusa_small.svg",
+      "rootV4": "0:76471256fbccd1c2734ac20cd6ccc4d0322286d4b6519458540de303c58a7e12",
+      "rootV5": "0:b3ed4b9402881c7638566b410dda055344679b065dce19807497c62202ba9ce3",
+      "proxy": "0:10915b210558d7ce04559109bca77a4c1dc18844d3b88eca3919643e5fc1d39a"
+    }
   ]
 }
