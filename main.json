@@ -91,6 +91,13 @@
     "rootV4": "0:5a36d8f9384f63321d49fd98e1a7818b28d9496d1daf3328325560ded3d86806",
     "rootV5": "0:fde4c629d6447fecd86d2cffe363d5f334030351022bad019e0f472212e9dc99",
     "proxy": "0:de42136038cb331499cc104da47bbc63d790e403def83ce576dea6deb06cd7cc"
-    }
+    },
+    {
+      "symbol": "EVS",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EVS/logo.svg",
+      "rootV4": "0:4600a14ac4d37836993ea7040ee8e78afc7f246bca3c81367d50f5046df7ee8c",
+      "rootV5": "0:e5d964bf76b90a29ca11ff03a0402eeca6a1c79a0fb4d8a2f06a67be0537a6bf",
+      "proxy": "0:b7f5e80ec25cd08536e2ff18f137d36a30a4f98060bf05b78c78101e4bf27313"
+     }
   ]
 }
