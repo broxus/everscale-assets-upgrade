@@ -112,6 +112,13 @@
       "rootV4": "0:76471256fbccd1c2734ac20cd6ccc4d0322286d4b6519458540de303c58a7e12",
       "rootV5": "0:b3ed4b9402881c7638566b410dda055344679b065dce19807497c62202ba9ce3",
       "proxy": "0:10915b210558d7ce04559109bca77a4c1dc18844d3b88eca3919643e5fc1d39a"
+    },
+    {
+      "symbol": "DECO",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DECO/logo.svg",
+      "rootV4": "0:62d9fe7169fc0a49b2d8eb4c2972800fbad8b885171ea0849ebc402a24ad31c3",
+      "rootV5": "0:d3bd7e235c74cea907aa65cc7a3f0f533334a65f61bc9b85bda50300bec6ce77",
+      "proxy": "0:74a8fc6a0e1625b412382e954a5cb21ff7527b1c65a6eddc198c1cf802be63a6"
     }
   ]
 }
