@@ -119,6 +119,13 @@
       "rootV4": "0:62d9fe7169fc0a49b2d8eb4c2972800fbad8b885171ea0849ebc402a24ad31c3",
       "rootV5": "0:d3bd7e235c74cea907aa65cc7a3f0f533334a65f61bc9b85bda50300bec6ce77",
       "proxy": "0:74a8fc6a0e1625b412382e954a5cb21ff7527b1c65a6eddc198c1cf802be63a6"
+    },
+    {
+      "symbol": "COLA",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/COLA/logo.svg",
+      "rootV4": "0:967c87a81c2ad6a489fe006f831a11ffd8ac5bc6f7dd4e107a27e0e6a7728144",
+      "rootV5": "0:9dd2cd82cbfd74a963be1ef1fd1a1f3e25f60e0b8c742f8b862df378b9a5e265",
+      "proxy": "0:9d09ed787c99143c125ecf6b3ace7f6056d6b0180cb69d5a306b8c34dcf0225b"
     }
   ]
 }
