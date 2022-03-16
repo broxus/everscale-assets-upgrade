@@ -129,8 +129,8 @@
     },
     {"symbol": "BATA",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/BATA/logo.svg",
-      "rootV4": "0:d5c74d583a377891946c8119dc127fac359fb4773911237e6da09ffb3addf10f",
-      "rootV5": "0:992d790ee8aadd1f2a3b41a392a55a1fd00a8dcafbb0fd29444e0ad7c458d526",
+      "rootV4": "0:0a6275b3f40bd22afce2b1545a08017b6924ed6b303e3aa80dd506f81987897d",
+      "rootV5": "0:3667c4018cf2bee23ddea45c42672ad3e39685f46a31ba03b79fb7cc2e80a67d",
       "proxy": "0:2eab5aaccb8ad8d52cee234769d35724d56b336f8c10aa02ab06f1bf0ee83568"
     },
   ]
