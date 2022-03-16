@@ -126,6 +126,12 @@
       "rootV4": "0:967c87a81c2ad6a489fe006f831a11ffd8ac5bc6f7dd4e107a27e0e6a7728144",
       "rootV5": "0:9dd2cd82cbfd74a963be1ef1fd1a1f3e25f60e0b8c742f8b862df378b9a5e265",
       "proxy": "0:9d09ed787c99143c125ecf6b3ace7f6056d6b0180cb69d5a306b8c34dcf0225b"
-    }
+    },
+    {"symbol": "BATA",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/BATA/logo.svg",
+      "rootV4": "0:d5c74d583a377891946c8119dc127fac359fb4773911237e6da09ffb3addf10f",
+      "rootV5": "0:992d790ee8aadd1f2a3b41a392a55a1fd00a8dcafbb0fd29444e0ad7c458d526",
+      "proxy": "0:2eab5aaccb8ad8d52cee234769d35724d56b336f8c10aa02ab06f1bf0ee83568"
+    },
   ]
 }
