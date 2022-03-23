@@ -126,6 +126,13 @@
       "rootV4": "0:967c87a81c2ad6a489fe006f831a11ffd8ac5bc6f7dd4e107a27e0e6a7728144",
       "rootV5": "0:9dd2cd82cbfd74a963be1ef1fd1a1f3e25f60e0b8c742f8b862df378b9a5e265",
       "proxy": "0:9d09ed787c99143c125ecf6b3ace7f6056d6b0180cb69d5a306b8c34dcf0225b"
-    }
+    },
+    {
+    "symbol": "ZBAL",
+    "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/ZBAL/logo.svg",
+    "rootV4": "0:f6dd270e31d57b30e092ef9e9839b1f3e6be8118e9733d9813f5ccb6c5746954",
+    "rootV5": "0:6b07685e1b65225162bd97a38bc157e23c9d4f263cc03198ab13081596daba45",
+    "proxy": "0:dcf0a7b961f85ed431263af6b0e65850a44cbe2a37a02c0aa97c8839be1fe795"
+}
   ]
 }
