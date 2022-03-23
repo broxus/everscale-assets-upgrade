@@ -129,7 +129,7 @@
     },
     {
       "symbol": "MOON",
-      "logoURI": "https://raw.githubusercontent.com/moononeverscale/moon-logo-assets/a0f350275751ca264473ca276d1e9515a0dcc815/MOON_logo_ver.3_(bg).svg",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/MOON/logo.svg",
       "rootV4": "0:ced4179b55a060cc98978956c08fb7ea6495d5dd4258ea59b5f320affd15ed32",
       "rootV5": "0:b5ff077d8ac0160559bd3c945a2a824cda12ba93ae90c2697c890656d52fc7d0",
       "proxy": "0:661138e46a596433054ce5bcec2ac30a5730944b76c2ee5a6484bdf2bd702f56"
