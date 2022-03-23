@@ -127,5 +127,11 @@
       "rootV5": "0:9dd2cd82cbfd74a963be1ef1fd1a1f3e25f60e0b8c742f8b862df378b9a5e265",
       "proxy": "0:9d09ed787c99143c125ecf6b3ace7f6056d6b0180cb69d5a306b8c34dcf0225b"
     }
+    {
+      "symbol": "MYLUNCH",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/,
+      "rootV5": "0:e7b16ca2d3cfeae7da962ba0f63d278727ae1f5a9c4a6203816a6ff60cacd6e6",
+      "proxy": "0:f8c2691fe464ad77f5ac954d577f33688b973bcfcb240e230a7444e5ae0572d8"
+    }
   ]
 }
