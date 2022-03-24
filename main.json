@@ -126,6 +126,13 @@
       "rootV4": "0:967c87a81c2ad6a489fe006f831a11ffd8ac5bc6f7dd4e107a27e0e6a7728144",
       "rootV5": "0:9dd2cd82cbfd74a963be1ef1fd1a1f3e25f60e0b8c742f8b862df378b9a5e265",
       "proxy": "0:9d09ed787c99143c125ecf6b3ace7f6056d6b0180cb69d5a306b8c34dcf0225b"
+    },
+    {
+      "symbol": "MOON",
+      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/MOON/logo.svg",
+      "rootV4": "0:ced4179b55a060cc98978956c08fb7ea6495d5dd4258ea59b5f320affd15ed32",
+      "rootV5": "0:b5ff077d8ac0160559bd3c945a2a824cda12ba93ae90c2697c890656d52fc7d0",
+      "proxy": "0:661138e46a596433054ce5bcec2ac30a5730944b76c2ee5a6484bdf2bd702f56"
     }
   ]
 }
