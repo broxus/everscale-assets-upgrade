@@ -45,31 +45,11 @@
       "proxy": "0:600f9ab6f5f52fbfcab012532a6e2e7d5a889362329073f22f6a642c397da4c9"
     },
     {
-      "symbol": "UNI-V2-USDT-WTON",
-      "rootV4": "0:53abe27ec16208973c9643911c35b5d033744fbb95b11b5672f71188db5a42dc",
-      "rootV5": "0:1e6e1b3674b54753864af7b15072566ce632965bd83bab431a8ff86d68cf1657",
-      "proxy": "0:18987794347bb73eae04d8eb420629058cf116cfcdc9ea7850666c7ce53609d5"
-    },
-    {
       "symbol": "FRAX",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/FRAX/logo.svg",
       "rootV4": "0:f8b0314571f5f00f6d9a61a914b9b5e1d910442d09b80c27efeb46631d74e961",
       "rootV5": "0:efed9f9a7e6c455ee60829fd003b2f42edda513c6f19a484f916b055e9aa58d2",
       "proxy": "0:393f2eac59064e38661b8bfd61256f1acbf6160fcf0e9ec37d0115ee6dcde59e"
-    },
-    {
-      "symbol": "FXS",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/FXS/logo.svg",
-      "rootV4": "0:0cddd021d2488c882041a31ba44e4ee69643a45223f068571e05b5a4c45bb7f6",
-      "rootV5": "0:c14e2f026feaae0f99b92c04ee421051a782fff60156ac8a586a12f63d7facef",
-      "proxy": "0:10653361a4e3f43b81befbec7ea97e1137bff1233fe2515abf4d6ac42fcc6909"
-    },
-    {
-      "symbol": "DAF",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DAF/logo.svg",
-      "rootV4": "0:bf1c7c0e8a187d9d5ba6069bf768b69a982df8b22ef8430b31dcc4f97263507e",
-      "rootV5": "0:f48054939064d686a9ad68d96d9ab79e409b095557c06ab7f073097dade7057f",
-      "proxy": "0:f0e380fa8a48adb45e73fa499c4346402808c31a45e69f9c9ef2544e4e6d1e86"
     },
     {
       "symbol": "EUPi",
@@ -86,13 +66,6 @@
       "proxy": "0:1078fc30e3acd94c1855224ea4d2d94f7677f6c9bfb2cf79b0962490bc40d726"
     },
     {
-      "symbol": "GRE",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/GRE/logo.svg",
-      "rootV4": "0:5a36d8f9384f63321d49fd98e1a7818b28d9496d1daf3328325560ded3d86806",
-      "rootV5": "0:fde4c629d6447fecd86d2cffe363d5f334030351022bad019e0f472212e9dc99",
-      "proxy": "0:de42136038cb331499cc104da47bbc63d790e403def83ce576dea6deb06cd7cc"
-    },
-    {
       "symbol": "EVS",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/EVS/logo.svg",
       "rootV4": "0:4600a14ac4d37836993ea7040ee8e78afc7f246bca3c81367d50f5046df7ee8c",
@@ -100,39 +73,11 @@
       "proxy": "0:b7f5e80ec25cd08536e2ff18f137d36a30a4f98060bf05b78c78101e4bf27313"
     },
     {
-      "symbol": "BAPBAPA",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/BAPBAPA/logo.svg",
-      "rootV4": "0:60e0e4a95f54a7d4c9d3668b9a545cc513e96e6a9826f514b1f88b1a4145c693",
-      "rootV5": "0:9e0350c13cafe2bb55d906553fde5f357612e6dcb46c0c3440c7bfdda273ffdd",
-      "proxy": "0:f6ceca4557593001bdf39b8512c29ce5f334f1c15713fbec0d092956a5b4a4bc" 
-    },
-    {
       "symbol": "DUSA",
       "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DUSA/logo.svg",
       "rootV4": "0:76471256fbccd1c2734ac20cd6ccc4d0322286d4b6519458540de303c58a7e12",
       "rootV5": "0:b3ed4b9402881c7638566b410dda055344679b065dce19807497c62202ba9ce3",
       "proxy": "0:10915b210558d7ce04559109bca77a4c1dc18844d3b88eca3919643e5fc1d39a"
-    },
-    {
-      "symbol": "DECO",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/DECO/logo.svg",
-      "rootV4": "0:62d9fe7169fc0a49b2d8eb4c2972800fbad8b885171ea0849ebc402a24ad31c3",
-      "rootV5": "0:d3bd7e235c74cea907aa65cc7a3f0f533334a65f61bc9b85bda50300bec6ce77",
-      "proxy": "0:74a8fc6a0e1625b412382e954a5cb21ff7527b1c65a6eddc198c1cf802be63a6"
-    },
-    {
-      "symbol": "COLA",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/COLA/logo.svg",
-      "rootV4": "0:967c87a81c2ad6a489fe006f831a11ffd8ac5bc6f7dd4e107a27e0e6a7728144",
-      "rootV5": "0:9dd2cd82cbfd74a963be1ef1fd1a1f3e25f60e0b8c742f8b862df378b9a5e265",
-      "proxy": "0:9d09ed787c99143c125ecf6b3ace7f6056d6b0180cb69d5a306b8c34dcf0225b"
-    },
-    {
-      "symbol": "MOON",
-      "logoURI": "https://raw.githubusercontent.com/broxus/ton-assets/master/icons/MOON/logo.svg",
-      "rootV4": "0:ced4179b55a060cc98978956c08fb7ea6495d5dd4258ea59b5f320affd15ed32",
-      "rootV5": "0:b5ff077d8ac0160559bd3c945a2a824cda12ba93ae90c2697c890656d52fc7d0",
-      "proxy": "0:661138e46a596433054ce5bcec2ac30a5730944b76c2ee5a6484bdf2bd702f56"
     }
   ]
 }
